@@ -1,0 +1,8 @@
+C:\Users\Jose\source\repos\PooVisualStudio\Ejercicio2CasaComercial\Ejercicio2CasaComercial\bin\Debug\Ejercicio2CasaComercial.exe.config
+C:\Users\Jose\source\repos\PooVisualStudio\Ejercicio2CasaComercial\Ejercicio2CasaComercial\bin\Debug\Ejercicio2CasaComercial.exe
+C:\Users\Jose\source\repos\PooVisualStudio\Ejercicio2CasaComercial\Ejercicio2CasaComercial\bin\Debug\Ejercicio2CasaComercial.pdb
+C:\Users\Jose\source\repos\PooVisualStudio\Ejercicio2CasaComercial\Ejercicio2CasaComercial\obj\Debug\Ejercicio2CasaComercial.csproj.AssemblyReference.cache
+C:\Users\Jose\source\repos\PooVisualStudio\Ejercicio2CasaComercial\Ejercicio2CasaComercial\obj\Debug\Ejercicio2CasaComercial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jose\source\repos\PooVisualStudio\Ejercicio2CasaComercial\Ejercicio2CasaComercial\obj\Debug\Ejercicio2CasaComercial.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\PooVisualStudio\Ejercicio2CasaComercial\Ejercicio2CasaComercial\obj\Debug\Ejercicio2CasaComercial.exe
+C:\Users\Jose\source\repos\PooVisualStudio\Ejercicio2CasaComercial\Ejercicio2CasaComercial\obj\Debug\Ejercicio2CasaComercial.pdb
