@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A49B2B35-64C6-4EC9-9CD8-3AC48CB44C34}</ProjectGuid>
+    <ProjectGuid>{25A7283F-5788-49CB-BAAB-DEDF914AD502}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ejer3Comp</RootNamespace>
-    <AssemblyName>Ejer3Comp</AssemblyName>
+    <RootNamespace>Ejer4</RootNamespace>
+    <AssemblyName>Ejer4</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Computadora.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

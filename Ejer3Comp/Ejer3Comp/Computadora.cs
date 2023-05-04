@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ejer3Comp
 {
-    internal class Computadora
+    internal class Computadora  
     {
         int capacidad_disco;
         int espacio_disponible;
