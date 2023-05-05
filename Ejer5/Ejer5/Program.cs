@@ -12,19 +12,13 @@ namespace Ejer5
         {
             Foto foto = new Foto(1, 2, DateTime.Now, "Comentario");
             Album album = new Album(1, "Album1", DateTime.Now, new List<Foto>());
-            Console.WriteLine(album.ToString());
             album.AniadirFoto(foto);
-            Console.WriteLine(album.ToString());
+            
             album.MostrarFoto();
+            album.TamanoAlbum();
             album.VaciarAlbum();
-            Console.WriteLine(album.ToString());
-
-            
-
-            
-
-
-
+            album.EliminarFoto(foto);
+            Console.ReadKey();
         }
     }
 }

@@ -51,6 +51,7 @@ namespace Ejer5
         public void AniadirFoto(Foto f)
         {
             Fotos.Add(f);
+            Console.WriteLine("Se agrego la foto");
         }
         public void MostrarFoto()
         {
