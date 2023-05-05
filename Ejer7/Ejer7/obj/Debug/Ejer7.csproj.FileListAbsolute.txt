@@ -1,0 +1,8 @@
+C:\Users\Jose\source\repos\PooVisualStudio\Ejer7\Ejer7\bin\Debug\Ejer7.exe.config
+C:\Users\Jose\source\repos\PooVisualStudio\Ejer7\Ejer7\bin\Debug\Ejer7.exe
+C:\Users\Jose\source\repos\PooVisualStudio\Ejer7\Ejer7\bin\Debug\Ejer7.pdb
+C:\Users\Jose\source\repos\PooVisualStudio\Ejer7\Ejer7\obj\Debug\Ejer7.csproj.AssemblyReference.cache
+C:\Users\Jose\source\repos\PooVisualStudio\Ejer7\Ejer7\obj\Debug\Ejer7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jose\source\repos\PooVisualStudio\Ejer7\Ejer7\obj\Debug\Ejer7.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\PooVisualStudio\Ejer7\Ejer7\obj\Debug\Ejer7.exe
+C:\Users\Jose\source\repos\PooVisualStudio\Ejer7\Ejer7\obj\Debug\Ejer7.pdb
